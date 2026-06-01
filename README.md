@@ -1,31 +1,3 @@
-<!-- REPO-POLISH:START -->
-<p align="center">
-  <img src="docs/assets/social-preview.png" alt="Repo social preview" width="100%">
-</p>
-
-> Universal Media File Converter is a developer-facing project packaged for quick local understanding.
-
-## Quick Start
-
-```bash
-git clone https://github.com/Supersynergy/universal-media-file-converter.git
-cd universal-media-file-converter
-git status --short
-```
-
-Expected result: the project runs locally or reports the next missing prerequisite directly in the terminal.
-
-## Developer Map
-
-| Need | Command |
-|---|---|
-| inspect | `git status --short` |
-
-Full verification path: `git status --short`
-
-Agent instructions live in [AGENTS.md](AGENTS.md).
-<!-- REPO-POLISH:END -->
-
 # Universal Media Converter (`conv`)
 
 One shell function for every media task — convert, trim, concat, OCR, print-prep,
